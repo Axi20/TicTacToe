@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\TicTacToe\ProjektV2\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\TicTacToe\ProjektV2\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.ExitScreen.resources
+C:\Users\Lenovo\Desktop\TicTacToe\ProjektV2\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.Form1.resources
+C:\Users\Lenovo\Desktop\TicTacToe\ProjektV2\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.HomeScreen.resources
+C:\Users\Lenovo\Desktop\TicTacToe\ProjektV2\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.Level.resources
+C:\Users\Lenovo\Desktop\TicTacToe\ProjektV2\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.MediumDiff.resources
+C:\Users\Lenovo\Desktop\TicTacToe\ProjektV2\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\TicTacToe\ProjektV2\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\TicTacToe\ProjektV2\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\TicTacToe\ProjektV2\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\TicTacToe\ProjektV2\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\TicTacToe\ProjektV2\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\TicTacToe\ProjektV2\TicTacToe\obj\Debug\net6.0-windows\refint\TicTacToe.dll

@@ -16,8 +16,5 @@
     <Compile Update="MediumDiff.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Players.cs">
-      <SubType>Form</SubType>
-    </Compile>
   </ItemGroup>
 </Project>

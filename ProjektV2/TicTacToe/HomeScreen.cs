@@ -32,5 +32,10 @@ namespace TicTacToe
             ExitScreen exitScreen = new ExitScreen();
             exitScreen.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
