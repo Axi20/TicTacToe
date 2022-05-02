@@ -42,11 +42,11 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.NavajoWhite;
-            this.label2.Font = new System.Drawing.Font("High Tower Text", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label2.BackColor = System.Drawing.Color.Transparent;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label2.Location = new System.Drawing.Point(146, 41);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(474, 71);
+            this.label2.Size = new System.Drawing.Size(510, 69);
             this.label2.TabIndex = 3;
             this.label2.Text = "Add player names";
             // 
@@ -54,7 +54,7 @@
             // 
             this.button4.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button4.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button4.Font = new System.Drawing.Font("Lucida Calligraphy", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button4.Location = new System.Drawing.Point(580, 696);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(134, 56);
@@ -66,22 +66,22 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.NavajoWhite;
-            this.label1.Font = new System.Drawing.Font("High Tower Text", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label1.Location = new System.Drawing.Point(110, 242);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(257, 48);
+            this.label1.Size = new System.Drawing.Size(287, 46);
             this.label1.TabIndex = 8;
             this.label1.Text = "Player 1 name:";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.BackColor = System.Drawing.Color.NavajoWhite;
-            this.label3.Font = new System.Drawing.Font("High Tower Text", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label3.BackColor = System.Drawing.Color.Transparent;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label3.Location = new System.Drawing.Point(110, 359);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(261, 48);
+            this.label3.Size = new System.Drawing.Size(287, 46);
             this.label3.TabIndex = 9;
             this.label3.Text = "Player 2 name:";
             // 
@@ -89,41 +89,41 @@
             // 
             this.textBox1.AccessibleRole = System.Windows.Forms.AccessibleRole.Application;
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.Font = new System.Drawing.Font("High Tower Text", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.textBox1.Location = new System.Drawing.Point(388, 242);
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.textBox1.Location = new System.Drawing.Point(388, 243);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(275, 47);
+            this.textBox1.Size = new System.Drawing.Size(275, 46);
             this.textBox1.TabIndex = 10;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
             // 
             this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox2.Font = new System.Drawing.Font("High Tower Text", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.textBox2.Location = new System.Drawing.Point(388, 359);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(275, 47);
+            this.textBox2.Size = new System.Drawing.Size(275, 46);
             this.textBox2.TabIndex = 11;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.BackColor = System.Drawing.Color.NavajoWhite;
-            this.label4.Font = new System.Drawing.Font("High Tower Text", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label4.BackColor = System.Drawing.Color.PaleTurquoise;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label4.Location = new System.Drawing.Point(38, 243);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(50, 48);
+            this.label4.Size = new System.Drawing.Size(47, 46);
             this.label4.TabIndex = 12;
             this.label4.Text = "X";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.BackColor = System.Drawing.Color.NavajoWhite;
-            this.label5.Font = new System.Drawing.Font("High Tower Text", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label5.BackColor = System.Drawing.Color.PaleTurquoise;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label5.Location = new System.Drawing.Point(38, 359);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(52, 48);
+            this.label5.Size = new System.Drawing.Size(51, 46);
             this.label5.TabIndex = 13;
             this.label5.Text = "O";
             // 

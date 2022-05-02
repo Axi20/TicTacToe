@@ -23,5 +23,12 @@ namespace TicTacToe
             Form1 normalGame = new Form1(); 
             normalGame.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            MediumDiff mediumGame = new MediumDiff();
+            mediumGame.Show();
+        }
     }
 }
